@@ -1,0 +1,3 @@
+D:\Projects\AnvizService_byAcid\AnvizService_byAcid\obj\Debug\AnvizService_byAcid.csprojAssemblyReference.cache
+D:\Projects\AnvizService_byAcid\AnvizService_byAcid\obj\Debug\AnvizService_byAcid.exe.config
+D:\Projects\AnvizService_byAcid\AnvizService_byAcid\obj\Debug\AnvizService_byAcid.csproj.CoreCompileInputs.cache

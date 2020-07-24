@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnvizControllerByAcid", "AnvizService_byAcid\AnvizControllerByAcid.csproj", "{2482AA2C-9FFC-4671-B3AB-4FBB582A16CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2482AA2C-9FFC-4671-B3AB-4FBB582A16CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2482AA2C-9FFC-4671-B3AB-4FBB582A16CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2482AA2C-9FFC-4671-B3AB-4FBB582A16CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2482AA2C-9FFC-4671-B3AB-4FBB582A16CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {148EA801-EB9A-40DD-BB18-06C8487B8366}
+	EndGlobalSection
+EndGlobal
